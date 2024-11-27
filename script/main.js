@@ -1,6 +1,3 @@
-// 注册 GSAP 插件
-gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
-
 // Import the data to customize and insert them into page
 const fetchData = () => {
     fetch("customize.json")
