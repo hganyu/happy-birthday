@@ -344,8 +344,8 @@ body {
 }
 
 .startSign .button:hover {
-  background-color: #2ba245;
   color: #fff;
+  background-color: #2ba245;
   padding: 1rem 1.6rem;
   cursor: pointer;
 }
